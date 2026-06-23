@@ -28,7 +28,7 @@ rating:"⭐⭐⭐⭐⭐"
 {
 id:4,
 name:"Headphones",
-price:2999,
+price:1999,
 image:"headphone.jpeg",
 rating:"⭐⭐⭐⭐"
 },
